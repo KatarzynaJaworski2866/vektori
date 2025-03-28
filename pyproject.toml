@@ -3,3 +3,4 @@ name = "vektori"
 version = "0.1.0"
 description = "Memory that remembers the story not just the facts. File System Memory and Three layer  sentence graph for AI agents -> Facts, Episodes, raw Sentences.   One DB. Zero config."
 requires-python = ">=3.10"
+# handle the edge case from the last release
